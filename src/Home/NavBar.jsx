@@ -33,7 +33,7 @@ function NavBar() {
               </NavLink>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="">
                 <button
                   type="button"
                   className="btn btn-primary"
